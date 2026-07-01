@@ -7,7 +7,7 @@
 Welcome to my personal portfolio website!  
 This project showcases who I am, the skills I possess, and the work I've done. Built with simplicity, performance, and modern design principles in mind, this site reflects my journey and aspirations as a web developer and software engineer.
 
-🔗 **Live Site:** [soyamkayasth.lovable.app](https://soyamkayasth.lovable.app/)
+🔗 **Live Site:** [Click Me!](https://soyam.onrender.com/)
 
 ---
 
